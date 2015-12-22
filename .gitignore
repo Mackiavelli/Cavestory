@@ -1,0 +1,16 @@
+# Visual Studio #
+#################
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Compiled Source #
+###################
+*.o
+*.exe
+*.dll
+*.so
